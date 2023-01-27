@@ -1,0 +1,54 @@
+.box{
+width: 50px;
+height: 50px;
+background:#00ff00 ;
+display: inline-block;
+padding: 10px;
+margin: 10px;
+border: solid #ff0000;
+}
+
+.box-2{
+
+background: #0000ff;
+border:dashed #00ff00;
+
+}
+
+.box-3{
+
+    background: #ff0000;
+    border:dashed #0000ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
